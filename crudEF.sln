@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crudEF", "crudEF\crudEF.csproj", "{83639D99-6D36-40B9-8257-A543121236C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83639D99-6D36-40B9-8257-A543121236C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83639D99-6D36-40B9-8257-A543121236C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83639D99-6D36-40B9-8257-A543121236C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83639D99-6D36-40B9-8257-A543121236C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DBADC14-D36C-4B6F-9C0A-9BF4A4E84C7A}
+	EndGlobalSection
+EndGlobal
